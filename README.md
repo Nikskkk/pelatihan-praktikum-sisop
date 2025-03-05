@@ -11,6 +11,7 @@ wget --no-check-certificate -p ~/artists_who_can_sing 'https://drive.google.com/
 3. Membuat file baru bernama "singing_tutorials" dan melakukan unzip file kedalam folder "singing_tutorials"
 ```bash
 mkdir singing_tuorials
+cd singing_tutorials
 unzip -d singing_tutorial tutorial.zip   
 ```
 4. Menampilkan semua file dan menampilkan semua file yang tersembunyi
